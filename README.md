@@ -8,4 +8,6 @@ git commit
 git checkout 
 git stash
 git logs
+git rm file1
+git log
 
